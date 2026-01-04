@@ -10,6 +10,8 @@ Author: Kamil BuriXon Burek, Version: 1.0.0.
 This plugin is useful for developers who want a quick and reliable way to normalize indentation.  
 It’s a small, fast, and handy alternative to manually adjusting tabs or spaces.
 
+![Banner](/banner.gif)
+
 ## Installation:
 
 ### Manual installation:
