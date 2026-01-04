@@ -59,7 +59,7 @@ For any issues, suggestions, or questions, reach out via:
 
 - *Email:* support@burixon.dev
 - *Contact form:* [Click here](https://burixon.dev/contact/)
-- *Bug reports:* [Click here](https://burixon.dev/bugreport/#Termux-WiFi-map)
+- *Bug reports:* [Click here](https://burixon.dev/bugreport/#micro-retab-plugin)
 
 ### Support me:
 If you find this script useful, consider supporting my work by making a donation:
