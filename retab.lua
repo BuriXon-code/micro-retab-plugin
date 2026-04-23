@@ -18,6 +18,8 @@ Usage:
 	- InfoBar shows counts.
 --]]
 
+VERSION = "1.1.0"
+
 local config = import("micro/config")
 local buffer = import("micro/buffer")
 local micro = import("micro")
